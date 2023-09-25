@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+.Main{
+    background: rgb(59, 52, 52);
+    border-radius: 50px;
+}
+.Main__Box{
+
+    height: 140vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Main__Box img{
+    border-radius: 40px;
+    width: 90%;
+    display: flex;
+    align-self: center;
+}
+
+.Main__Box p{
+    font-size: 25px;
+    padding: 10%;
+    padding-top: 0%;
+    color: aliceblue;
+}
+.Main__Box h1{
+    font-size: 30px;
+    padding: 10%;
+    padding-top: 0%;
+}
+.Main__Box button{
+    height: 70px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 50px;
+    box-shadow: 0 0 20px rgb(132, 160, 145);
+}
+.Main__Box h2{
+    font-size: 25px;
+    width: 90%;
+    margin-top: 20px;
+}
+
+
+/* Buttons */
+#yesBtn{
+    transform: translate(-70%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
