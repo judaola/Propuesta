@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que habia escogido bien🥰, oficialmete tengo novia 🥳🥳🥳🥳')
+    alert('Sabia decision, oficialmete tengo novia 🥳🥳🥳🥳. Te quiero mucho corazon de melon🥺')
 });
 
 const noBtn = document.querySelector('#noBtn');
