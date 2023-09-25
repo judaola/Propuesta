@@ -31,6 +31,7 @@ body{
     padding: 10%;
     padding-top: 0%;
     color: aliceblue;
+    text-align: justify;
 }
 .Main__Box h1{
     font-size: 25px;
@@ -59,7 +60,7 @@ body{
 
 #noBtn{
     position: absolute;
-    top: 104%;
+    top: 105%;
     right: 10%;
 }
 @media (min-width:420px) {
