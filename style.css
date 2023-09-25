@@ -5,11 +5,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 5%;
 }
 .Main{
     background: rgb(59, 52, 52);
     border-radius: 50px;
+    margin: 5%;
 }
 .Main__Box{
     height: 1000px;
@@ -17,6 +17,7 @@ body{
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    box-sizing: border-box;
 }
 
 .Main__Box img{
