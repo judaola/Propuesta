@@ -12,7 +12,7 @@ body{
     border-radius: 50px;
 }
 .Main__Box{
-    height: 900px;
+    height: 1000px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -56,13 +56,13 @@ body{
 /* Buttons */
 #yesBtn{
     position: absolute;
-    top: 810px;
+    top: 910px;
     left: 10%;
 }
 
 #noBtn{
     position: absolute;
-    top: 810px;
+    top: 910px;
     right: 10%;
 }
 @media (min-width:420px) {
