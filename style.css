@@ -54,13 +54,14 @@ body{
 
 /* Buttons */
 #yesBtn{
-    transform: translate(-70%,0);
-    margin-top: 15px;
+    position: absolute;
+    top: 110%;
+    left: 10%;
 }
 
 #noBtn{
     position: absolute;
-    top: 105%;
+    top: 110%;
     right: 10%;
 }
 @media (min-width:420px) {
