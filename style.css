@@ -12,9 +12,9 @@ body{
     border-radius: 50px;
 }
 .Main__Box{
-    height: 130vh;
+    height: 900px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     flex-direction: column;
 }
@@ -49,6 +49,7 @@ body{
     font-size: 20px;
     width: 90%;
     margin-top: 20px;
+    margin-bottom: 150px;
 }
 
 
