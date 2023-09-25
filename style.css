@@ -55,13 +55,13 @@ body{
 /* Buttons */
 #yesBtn{
     position: absolute;
-    top: 110%;
+    top: 115%;
     left: 10%;
 }
 
 #noBtn{
     position: absolute;
-    top: 110%;
+    top: 115%;
     right: 10%;
 }
 @media (min-width:420px) {
